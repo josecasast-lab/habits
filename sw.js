@@ -1,4 +1,4 @@
-const V = 'habitos-v4';
+const V = 'habitos-v7';
 const FILES = ['./', 'index.html', 'foods.js', 'manifest.json', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {

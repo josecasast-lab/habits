@@ -17,8 +17,8 @@ App móvil (PWA) para trackear hábitos con anillos de cumplimiento. Funciona si
 - **Inicio:** anillos de cumplimiento (día, semana, mes, año), calorías y macros de hoy, y lo que te falta.
 - **Registro:** detalle diario de cada hábito, con navegación entre fechas.
 - **To-Do:** tareas por día, pendientes atrasadas y seguimiento.
-- **Métricas:** barras por semana, mes y año, rachas, promedios y mapa de calor.
-- **Ajustes:** metas, recordatorios, alimentos personalizados y respaldo.
+- **Métricas:** calorías en línea con promedio y % vs meta (rojo, amarillo, verde), calendario de entrenamientos con ícono por ejercicio, páginas leídas, promedio de pantalla y racha de No fap.
+- **Ajustes:** apariencia (tema oscuro por defecto, con opción de modo claro), metas, fecha de inicio, recordatorios, alimentos personalizados, respaldo y un **modo demo** (60 días de datos de prueba que no tocan tus datos reales).
 
 El seguimiento **empieza mañana** respecto al día en que abres la app por primera vez (puedes cambiar la fecha en Ajustes → Fecha de inicio). En Métricas, «No fap» muestra los **días acumulados** desde la última recaída, la mejor racha y el total de recaídas.
 
@@ -54,19 +54,15 @@ Los avisos usan **ntfy** (gratis, sin cuenta) y un GitHub Action con cron.
 4. En la app, ve a **Ajustes → Recordatorios**, escribe el mismo tema y pulsa *Enviar notificación de prueba*.
 5. También puedes probar el workflow desde **Actions → Recordatorios de hábitos → Run workflow**.
 
-Horarios por defecto (hora de Lima):
+Avisos fijos (hora de Lima):
 
 | Hora | Aviso |
 |---|---|
-| 07:30 | Agradecer por el día |
-| 08:00 | Revisar el To-Do |
-| 09:30 | Registrar desayuno |
-| 11:15 | Última llamada para agradecer |
-| 14:30 | Registrar almuerzo |
-| 17:00 | Entrenar |
-| 20:00 | Leer y registrar cena |
-| 21:00 | Se habilita la pantalla; cierre del día |
-| 22:30 | Último aviso |
+| 07:00 | Buenos días (gratitud hasta las 12:00 y To-Do) |
+| 15:00 | Llenar hábitos y tareas |
+| 22:00 | Buenas noches: regularizar todo y planificar mañana |
+
+**Avisos de tareas del To-Do:** al asignar una hora a una tarea (campo de hora junto al texto), la app programa ese aviso directamente en ntfy usando su entrega programada (hasta 3 días por adelantado). Para eso solo necesitas escribir tu tema en Ajustes → Recordatorios. Abre la app al menos cada 2–3 días para que se programen los siguientes. Si completas o borras la tarea, la app intenta cancelar el aviso; si ntfy no lo permite, el aviso podría llegar igual.
 
 Para cambiar horarios, edita los `cron` en `.github/workflows/recordatorios.yml` (están en UTC; Lima = UTC-5).
 
