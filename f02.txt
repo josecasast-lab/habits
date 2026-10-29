@@ -1,0 +1,226 @@
+## Tubérculos y raíces
+Papa blanca sancochada|1.9|0.1|20|150|1 papa mediana
+Papa amarilla sancochada|2|0.2|20.5|150|1 papa mediana
+Papa huayro sancochada|2|0.1|20.5|150|1 papa mediana
+Papa canchán sancochada|1.9|0.1|19.5|150|1 papa mediana
+Papa Perricholi sancochada|2|0.2|20|150|1 papa mediana
+Papa nativa sancochada|2|0.2|20|120|3 papitas
+Papa nativa morada sancochada|2.2|0.2|20.5|120|3 papitas
+Papa cruda con cáscara|2|0.1|17|150|1 papa mediana
+Papa al horno con cáscara|2.5|0.1|21|170|1 papa mediana
+Papa frita casera (en bastones)|3.4|15|41|120|1 porción
+Puré de papa (con leche y mantequilla)|2.3|4.2|16|180|1 taza
+Puré de papa instantáneo preparado|2|2|13|180|1 taza
+Papa sancochada en láminas (solo papa)|1.9|0.1|20|200|2 papas
+Camote amarillo sancochado|1.6|0.1|21|150|1 camote mediano
+Camote morado sancochado|1.8|0.1|21|150|1 camote mediano
+Camote anaranjado sancochado|2|0.2|21|150|1 camote mediano
+Camote al horno|2|0.1|21|150|1 camote mediano
+Camote frito (tajadas)|2|15|38|80|1 porción
+Camote crudo|1.6|0.1|20|150|1 camote mediano
+Yuca sancochada|1.4|0.3|38|100|1 trozo grande
+Yuca frita|1.5|13|42|100|1 porción
+Yuca cruda|1.4|0.3|38|100|1 trozo
+Olluco sancochado|1.2|0.1|11.4|100|1/2 taza
+Olluco crudo|1.1|0.1|14|100|1/2 taza
+Oca sancochada|1|0.5|13|100|1 oca grande
+Oca cruda|1|0.6|13|100|1 oca grande
+Mashua sancochada|1.5|0.6|10|100|1/2 taza
+Arracacha sancochada|0.8|0.2|19|100|1/2 taza
+Yacón crudo|0.3|0.1|13|150|1 unidad
+Chuño sancochado|2|0.2|29|100|1/2 taza
+Chuño seco|4|0.5|78|40|1 puñado
+Moraya (tunta) seca|4|0.5|78|40|1 puñado
+Plátano verde sancochado|1.3|0.4|31.9|100|1 plátano
+Plátano de freír (maduro frito)|1.5|10|30|100|1 porción
+Chifles (plátano verde frito en láminas)|2|30|60|30|1 bolsita
+Tostones (plátano verde frito aplastado)|1.5|14|35|100|1 porción
+Pituca sancochada|1.5|0.2|26|100|1 trozo
+Papa seca (cocida)|2|0.2|30|100|1/2 taza
+Plátano verde asado|1.3|0.4|32|100|1 plátano
+Papa chola sancochada|1.9|0.1|20|150|1 papa mediana
+Papa rellena sin relleno (masa de papa)|2.5|1|20|100|1/2 taza
+Camote chips (horneados)|2.5|10|58|30|1 puñado
+Kion (jengibre) fresco|1.8|0.8|18|5|1 trocito
+
+## Menestras
+Lentejas cocidas|9|0.4|20|150|1 taza
+Lentejas crudas|25|1|63|60|1/4 taza
+Lenteja bebé cocida|9|0.4|20|150|1 taza
+Frijol canario cocido|8.7|0.5|22.8|150|1 taza
+Frijol canario crudo|22|1.5|61|60|1/4 taza
+Frijol castilla cocido|8|0.5|21|150|1 taza
+Frijol negro cocido|8.9|0.5|23.7|150|1 taza
+Frijol panamito cocido|8.5|0.5|23|150|1 taza
+Frijol rojo cocido|8.7|0.5|22.8|150|1 taza
+Frijol de palo cocido|8|0.5|21|150|1 taza
+Pallar cocido|7.8|0.4|21|150|1 taza
+Pallares verdes cocidos|7.5|0.4|20|100|1/2 taza
+Garbanzo cocido|8.9|2.6|27.4|150|1 taza
+Garbanzo crudo|19|6|61|50|1/4 taza
+Habas secas cocidas|7.6|0.4|20|150|1 taza
+Habas frescas sancochadas|7.6|0.7|14|100|1/2 taza
+Arveja verde cocida|5.4|0.4|14|100|1/2 taza
+Arveja partida cocida|8.3|0.4|21|150|1 taza
+Arveja seca cruda|22|1.4|61|60|1/4 taza
+Soya cocida|18|9|8|100|1/2 taza
+Edamame cocido|12|5|9|100|1/2 taza
+Tarwi (chocho) cocido sin amargo|14|5|7.5|100|1/2 taza
+Hummus|8|10|14|60|3 cucharadas
+Falafel|13|18|32|60|3 unidades
+Menestra de frijol canario (guisada, solo menestra)|8|4|21|180|1 plato
+Menestra de lentejas (guisada, solo menestra)|8.5|3|20|180|1 plato
+Menestra de garbanzo (guisada)|8|4|21|180|1 plato
+Menestra de pallares (guisada)|7.5|3.5|21|180|1 plato
+Menestra de frijol negro (guisada)|8|3.5|22|180|1 plato
+Frijoles refritos|6|5|18|120|1/2 taza
+Puré de lentejas|7|3|18|180|1 taza
+Maní cocido (sancochado)|13|18|9|60|1/4 taza
+Alverjitas con zanahoria (guiso)|4.5|3|11|150|1 taza
+Pallares fritos (crocantes)|20|10|50|30|1 puñado
+
+## Verduras
+Lechuga americana|1.4|0.2|2.9|50|1 taza
+Lechuga criolla|1.3|0.2|2.5|50|1 taza
+Lechuga romana|1.2|0.3|3.3|50|1 taza
+Lechuga hidropónica|1.3|0.2|2.5|50|1 taza
+Espinaca cruda|2.9|0.4|3.6|50|1 taza
+Espinaca cocida|3|0.3|3.8|100|1/2 taza
+Acelga cruda|1.8|0.2|3.7|50|1 taza
+Acelga cocida|1.9|0.1|4.1|100|1/2 taza
+Repollo (col) crudo|1.3|0.1|5.8|60|1 taza picado
+Repollo cocido|1.3|0.1|5.5|100|1/2 taza
+Col morada cruda|1.4|0.2|7.4|60|1 taza picada
+Col de Bruselas cocida|2.6|0.5|7.1|100|1/2 taza
+Brócoli crudo|2.8|0.4|6.6|80|1 taza
+Brócoli cocido al vapor|2.4|0.4|7.2|100|1/2 taza
+Coliflor cruda|1.9|0.3|5|80|1 taza
+Coliflor cocida|1.8|0.5|4.1|100|1/2 taza
+Zanahoria cruda|0.9|0.2|9.6|70|1 zanahoria mediana
+Zanahoria cocida|0.8|0.2|8.2|100|1/2 taza
+Zanahoria rallada|0.9|0.2|9.6|50|1/2 taza
+Tomate fresco|0.9|0.2|3.9|120|1 unidad mediana
+Tomate cherry|0.9|0.2|3.9|100|8 unidades
+Cebolla roja|1.1|0.1|9.3|40|1/4 cebolla
+Cebolla blanca|1.1|0.1|9.3|40|1/4 cebolla
+Cebolla china (verde)|1.8|0.2|7.3|20|2 tallos
+Ajo|6.4|0.5|33|5|1 diente
+Pepino|0.7|0.1|3.6|100|1/2 pepino
+Pimiento rojo|1|0.3|6|80|1/2 pimiento
+Pimiento verde|0.9|0.2|4.6|80|1/2 pimiento
+Pimiento amarillo|1|0.2|6.3|80|1/2 pimiento
+Ají amarillo fresco|2|0.4|9|20|1 ají
+Rocoto fresco|1.5|0.5|9|40|1 rocoto
+Ají limo|2|0.5|9|10|1 ají
+Culantro fresco|2.1|0.5|3.7|10|1 ramito
+Perejil fresco|3|0.8|6.3|10|1 ramito
+Hierbabuena|3.3|0.7|8|5|1 ramito
+Apio|0.7|0.2|3|50|1 tallo
+Espárragos frescos|2.2|0.1|3.9|100|6 espárragos
+Espárragos cocidos|2.4|0.2|4.1|100|6 espárragos
+Vainitas crudas|1.8|0.1|7|100|1 taza
+Vainitas cocidas|1.9|0.3|7|100|1 taza
+Zapallo (calabaza) cocido|1|0.1|6.5|150|1 taza
+Zapallo macre cocido|1.2|0.1|8|150|1 taza
+Zapallito italiano (zucchini)|1.2|0.3|3.1|100|1/2 unidad
+Berenjena cocida|0.8|0.2|8.7|100|1/2 taza
+Caigua cruda|1.2|0.2|4|100|1 caigua
+Beterraga cocida|1.7|0.2|10|100|1 beterraga mediana
+Beterraga cruda|1.6|0.2|9.6|100|1 beterraga mediana
+Rabanito|0.7|0.1|3.4|40|4 rabanitos
+Nabo cocido|0.9|0.1|6.4|100|1/2 taza
+Alcachofa cocida|2.9|0.4|12|100|1 alcachofa
+Champiñones crudos|3.1|0.3|3.3|70|5 champiñones
+Champiñones salteados|3|4|5|100|1/2 taza
+Poro (puerro)|1.5|0.3|14|50|1/2 poro
+Palmito|2.5|0.6|4.6|60|3 trozos
+Pepinillos en vinagre|0.3|0.2|2.3|30|3 unidades
+Maíz dulce (choclo) enlatado|2.5|1|18|100|1/2 taza
+Ensalada mixta (lechuga, tomate, zanahoria)|1|0.2|4|150|1 plato
+Ensalada de tomate y cebolla|1|0.2|6|150|1 plato
+Ensalada de palta y tomate|1|6|5|150|1 plato
+Ensalada rusa (papa, zanahoria, beterraga, mayonesa)|2|9|10|120|1 porción
+Ensalada de repollo y zanahoria (coleslaw)|1|8|9|100|1 porción
+Ensalada de pepino con yogur|2|2|4|120|1 porción
+Verduras salteadas con aceite|2|5|7|150|1 plato
+Verduras al vapor (mixtas)|2|0.3|7|150|1 plato
+Verduras congeladas mixtas cocidas|3|0.4|9|150|1 plato
+Sopa de verduras (solo verduras licuadas)|1|0.5|4|250|1 taza
+Alfalfa (brotes)|4|0.7|2|20|1/2 taza
+Berros|2.3|0.1|1.3|30|1 taza
+Tomate seco|14|3|55|20|3 unidades
+Cebolla caramelizada|1|5|12|50|2 cucharadas
+Ají amarillo molido (en polvo)|13|15|56|5|1 cucharadita
+
+## Frutas
+Aguaymanto|1.9|0.7|11|50|10 unidades
+Camu camu|0.5|0.2|5.9|50|1/2 taza
+Chirimoya|1.6|0.7|18|150|1/2 unidad
+Lúcuma|1.5|0.5|25|100|1 unidad
+Granadilla (pulpa)|2.2|0.7|23|40|1 granadilla
+Maracuyá (pulpa)|2.2|0.7|23|40|1 maracuyá
+Tuna|0.7|0.5|9.6|100|2 unidades
+Pacay (pulpa)|1|0.1|17|80|1 vaina
+Mamey|0.5|0.2|12|100|1 trozo
+Guanábana|1|0.3|16.8|100|1 taza
+Papaya|0.5|0.3|11|200|1 tajada grande
+Piña|0.5|0.1|13|150|2 rodajas
+Mango|0.8|0.4|15|150|1 mango chico
+Mango Kent|0.8|0.4|15|150|1/2 mango
+Plátano de seda|1.1|0.3|23|100|1 plátano mediano
+Plátano de la isla|1.1|0.3|23|100|1 plátano mediano
+Plátano bellaco (maduro crudo)|1.2|0.3|32|100|1 plátano
+Manzana roja|0.3|0.2|14|150|1 manzana
+Manzana verde|0.4|0.2|14|150|1 manzana
+Manzana delicia|0.3|0.2|14|150|1 manzana
+Pera|0.4|0.1|15|150|1 pera
+Durazno|0.9|0.3|9.5|120|1 durazno
+Damasco|1.4|0.4|11|35|1 unidad
+Ciruela|0.7|0.3|11|60|2 ciruelas
+Uva verde|0.7|0.2|18|100|1 racimo chico
+Uva negra|0.7|0.2|18|100|1 racimo chico
+Uva italia|0.7|0.2|18|100|1 racimo chico
+Fresa|0.7|0.3|7.7|100|8 fresas
+Arándano|0.7|0.3|14|50|1/3 taza
+Mora|1.4|0.5|10|50|1/3 taza
+Frambuesa|1.2|0.7|12|50|1/3 taza
+Naranja|0.9|0.1|12|150|1 naranja
+Mandarina|0.8|0.3|13|80|1 mandarina
+Limón (jugo)|0.4|0.1|7|30|1 limón
+Toronja|0.8|0.1|11|150|1/2 toronja
+Melón|0.8|0.2|8|150|1 tajada
+Sandía|0.6|0.2|7.6|200|1 tajada
+Kiwi|1.1|0.5|15|75|1 kiwi
+Higo fresco|0.8|0.3|19|50|1 higo
+Higo seco|3.3|0.9|64|30|3 higos
+Dátil|2.5|0.4|75|24|1 dátil
+Pasas|3.1|0.5|79|30|1 puñado
+Ciruela pasa|2.2|0.4|64|30|3 ciruelas
+Orejones (damasco seco)|3.4|0.5|63|30|4 mitades
+Coco fresco (pulpa)|3.3|33|15|30|1 trozo
+Agua de coco|0.7|0.2|3.7|250|1 vaso
+Palta Hass|2|15|8.5|100|1/2 palta
+Palta fuerte|1.5|12|6|100|1/2 palta
+Aguaje|3.4|19|17|100|1/2 taza
+Cocona|0.9|0.7|6|100|1 unidad
+Carambola|1|0.3|6.7|100|1 unidad
+Tumbo (curuba)|0.6|0.1|10|100|1 unidad
+Pitahaya|1.2|0.4|11|100|1/2 unidad
+Níspero|0.4|0.2|12|100|3 unidades
+Capulí|1|0.3|12|50|1/2 taza
+Zapote|0.5|0.1|16|100|1/2 unidad
+Granada|1.7|1.2|19|100|1/2 granada
+Cereza|1|0.3|12|80|10 cerezas
+Membrillo|0.4|0.1|15|100|1 unidad
+Tamarindo (pulpa)|2.8|0.6|62|20|1 cucharada
+Lima dulce|0.7|0.2|9|100|1 unidad
+Mango deshidratado|2.5|1|78|30|1 puñado
+Piña deshidratada|1.5|0.3|80|30|1 puñado
+Arándanos deshidratados|0.1|1.4|82|30|1 puñado
+Plátano deshidratado (chips dulces)|2|20|65|30|1 puñado
+Ensalada de frutas (sin azúcar)|0.6|0.2|12|200|1 vaso
+Ensalada de frutas con yogur y granola|3|3|20|250|1 vaso
+Fruta picada mixta (papaya, piña, plátano)|0.7|0.2|12|200|1 plato
+Pulpa de fruta congelada (mango)|0.6|0.3|15|100|1/2 taza
+Jugo de limón (concentrado)|0.4|0.1|7|15|1 cucharada
+Cushuro (alga andina)|2|0.5|5|20|1 cucharada

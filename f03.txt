@@ -1,0 +1,196 @@
+## Carnes y vísceras
+Lomo fino de res crudo|21.5|5.9|0|150|1 bistec
+Lomo fino de res a la plancha|28|8|0|150|1 bistec
+Bistec de res a la plancha (bola/aguja)|28|9|0|150|1 bistec
+Bistec apanado de res (milanesa)|22|14|12|150|1 milanesa
+Churrasco de res a la parrilla|27|12|0|200|1 churrasco
+Bife de chorizo a la parrilla|26|15|0|250|1 bife
+Carne molida de res cruda|20|10|0|100|100 g
+Carne molida de res cocida|26|15|0|100|100 g
+Carne molida de res magra cocida|27|9|0|100|100 g
+Costillar de res asado|25|22|0|150|1 porción
+Asado de tira a la parrilla|24|26|0|150|1 porción
+Falda de res sancochada|27|15|0|120|1 porción
+Pecho de res sancochado|26|13|0|120|1 porción
+Pulpa de res sancochada|30|7|0|120|1 porción
+Carne de res guisada (solo carne)|28|10|2|120|1 porción
+Cecina de res|50|6|0|60|1 trozo
+Charqui de res|55|5|0|40|1 trozo
+Hígado de res cocido|27|5|4|120|1 bistec
+Hígado de res frito con cebolla|26|9|5|120|1 bistec
+Bofe de res cocido|17|4|0|100|1 porción
+Corazón de res cocido|29|6|0.1|100|1 porción
+Mondongo (callos) cocido|12|3.5|0|150|1 porción
+Mollejas de res a la parrilla|20|18|0|100|1 porción
+Riñón de res cocido|27|6|0|100|1 porción
+Lengua de res cocida|20|16|0|100|1 porción
+Chinchulines (intestino) a la parrilla|18|25|0|100|1 porción
+Rachi (tripa gorda) a la parrilla|16|14|0|100|1 porción
+Patita de res cocida|20|7|0|120|1 porción
+Cabeza de res cocida (carne)|22|13|0|120|1 porción
+Cuy cocido (carne sin hueso)|20|8|0|150|1/2 cuy
+Cuy al horno (carne con piel)|21|14|0|150|1/2 cuy
+Alpaca cruda|21|3|0|150|1 bistec
+Alpaca a la plancha|27|4|0|150|1 bistec
+Cordero cocido (pierna)|25|14|0|150|1 porción
+Costillas de cordero a la parrilla|23|28|0|150|1 porción
+Cabrito cocido|27|3|0|150|1 porción
+Cerdo lomo a la plancha|27|9|0|150|1 bistec
+Chuleta de cerdo a la plancha|26|13|0|150|1 chuleta
+Chuleta de cerdo frita|24|18|3|150|1 chuleta
+Chuleta de cerdo apanada|22|16|11|150|1 chuleta
+Costilla de cerdo al horno|23|26|0|150|1 porción
+Bondiola de cerdo cocida|24|18|0|150|1 porción
+Pierna de cerdo al horno (pernil)|25|15|0|150|1 porción
+Panceta (tocino fresco) cocida|13|42|0|50|2 tiras
+Tocino (bacon) frito|37|42|1.4|20|3 tiras
+Chicharrón de cerdo (solo chicharrón)|22|28|0|100|1 porción
+Lechón al horno (carne y piel)|20|28|0|150|1 porción
+Carne de cerdo molida cocida|26|20|0|100|100 g
+Jamón del país|20|7|1|30|2 lonchas
+Jamón inglés|18|4|1.5|20|1 loncha
+Jamón de cerdo cocido|19|5|1.5|20|1 loncha
+Jamonada|13|14|5|25|1 loncha
+Mortadela|13|28|3|25|1 loncha
+Pepperoni|20|40|1|20|5 rodajas
+Salame|22|34|2|25|3 rodajas
+Chorizo parrillero|14|28|2|80|1 unidad
+Chorizo seco|24|38|2|30|3 rodajas
+Longaniza|15|25|2|80|1 unidad
+Morcilla|14|20|8|80|1 unidad
+Salchicha de Huacho|11|23|3|50|1 unidad
+Salchicha de res (frankfurter)|11|26|3|50|1 unidad
+Salchicha de pollo|12|18|4|50|1 unidad
+Salchicha de pavo|13|15|4|50|1 unidad
+Hot dog (solo salchicha cocida)|11|26|3|50|1 unidad
+Butifarra (jamón del país, solo carne)|20|8|1|40|2 lonchas
+Pavo pechuga cocida|29|3|0|120|1 filete
+Pavo molido cocido|27|10|0|100|100 g
+Jamón de pavo|17|2.5|2|20|1 loncha
+Conejo cocido|29|8|0|150|1 porción
+Venado cocido|30|3|0|150|1 porción
+Carne de res seca (jerky)|33|26|11|30|1 puñado
+Hamburguesa de res casera (solo carne, plancha)|26|18|0|100|1 carne
+Hamburguesa de res congelada (solo carne)|17|20|3|90|1 carne
+Albóndigas de res (solo bolitas, al horno)|17|14|8|100|3 albóndigas
+Bistec de hígado encebollado|25|9|5|150|1 porción
+Cecina de cerdo|27|22|0|80|1 porción
+Tocino ahumado de res|25|18|1|25|2 lonchas
+Pata de cerdo cocida|23|18|0|120|1 porción
+Oreja de cerdo cocida|22|14|0|100|1 porción
+Carne de res al jugo (solo carne y jugo)|18|9|3|150|1 porción
+Bistec a la chorrillana (solo carne y salsa)|17|11|5|200|1 porción
+
+## Aves
+Pechuga de pollo cruda sin piel|22.5|2.6|0|150|1 pechuga
+Pechuga de pollo a la plancha|31|3.6|0|150|1 filete
+Pechuga de pollo hervida|29|3.2|0|120|1 filete
+Pechuga de pollo deshilachada|29|3.2|0|80|1/2 taza
+Pechuga de pollo apanada (milanesa)|22|12|14|150|1 milanesa
+Pechuga de pollo al horno con piel|28|10|0|150|1 pechuga
+Muslo de pollo con piel cocido|24|14|0|120|1 muslo
+Muslo de pollo sin piel cocido|26|8|0|100|1 muslo
+Pierna de pollo (muslo y encuentro) con piel|25|13|0|180|1 pierna
+Pierna de pollo sin piel|26|7|0|150|1 pierna
+Ala de pollo frita|24|20|3|60|2 alitas
+Alitas de pollo al horno (sin salsa)|27|17|0|90|4 alitas
+Pollo frito con piel (solo carne)|24|16|7|150|1 presa
+Pollo al horno con piel|25|14|0|180|1 presa
+Pollo sancochado (presa con piel)|25|12|0|180|1 presa
+Pollo hervido sin piel|28|5|0|150|1 presa
+Hígado de pollo cocido|24|6.5|1|80|1 porción
+Mollejitas de pollo salteadas|25|6|1|100|1 porción
+Corazón de pollo a la parrilla|26|9|0|100|1 porción
+Cuello de pollo cocido|18|13|0|80|2 cuellos
+Patas de pollo cocidas|19|15|0|80|3 patas
+Gallina sancochada (presa)|23|18|0|150|1 presa
+Gallina sancochada sin piel|27|9|0|150|1 presa
+Pato cocido|24|17|0|150|1 porción
+Pato asado con piel|19|28|0|150|1 porción
+Pavo al horno|29|7|0|150|1 porción
+Codorniz asada|25|14|0|100|1 codorniz
+Pollo molido cocido|24|9|0|100|100 g
+Pollo frito crocante (presa, tipo broaster)|21|18|10|140|1 presa
+Pollo deshilachado guisado (solo pollo y aderezo)|18|6|4|120|1/2 taza
+
+## Pescados y mariscos
+Bonito crudo|24|4|0|150|1 filete
+Bonito a la plancha|29|6|0|150|1 filete
+Pejerrey crudo|18|2|0|150|3 pejerreyes
+Pejerrey frito (apanado)|20|10|8|150|3 pejerreyes
+Corvina cruda|18|1.5|0|150|1 filete
+Corvina a la plancha|22|3|0|150|1 filete
+Corvina frita|21|11|5|150|1 filete
+Lenguado crudo|17|1.5|0|150|1 filete
+Lenguado a la plancha|21|2.5|0|150|1 filete
+Lenguado frito|20|10|5|150|1 filete
+Jurel crudo|20|5|0|150|1 filete
+Jurel frito|22|13|4|150|1 filete
+Caballa cruda|19|13|0|150|1 filete
+Caballa a la plancha|24|15|0|150|1 filete
+Caballa en conserva (en tomate)|16|7|3|120|1/2 lata
+Caballa en conserva (en aceite)|20|12|0|120|1/2 lata
+Cabrilla a la plancha|23|3|0|150|1 filete
+Cojinova a la plancha|22|6|0|150|1 filete
+Lisa a la plancha|22|5|0|150|1 filete
+Mero a la plancha|24|2.5|0|150|1 filete
+Toyo a la plancha|22|6|0|150|1 filete
+Merluza cruda|17|1.5|0|150|1 filete
+Merluza a la plancha|22|2|0|150|1 filete
+Perico (dorado) a la plancha|23|1.5|0|150|1 filete
+Tilapia a la plancha|26|3|0|150|1 filete
+Tilapia frita|24|11|6|150|1 filete
+Trucha cruda|20|6|0|150|1 trucha
+Trucha a la plancha|25|8|0|150|1 trucha
+Trucha frita|24|12|5|150|1 trucha
+Salmón crudo|20|13|0|150|1 filete
+Salmón a la plancha|25|12|0|150|1 filete
+Salmón ahumado|18|4.5|0|50|3 lonchas
+Atún fresco a la plancha|29|1|0|150|1 filete
+Atún en agua (lata)|25|1|0|120|1 lata escurrida
+Atún en aceite (lata)|24|9|0|120|1 lata escurrida
+Atún en trozos con tomate (lata)|17|5|3|120|1 lata
+Sardina en lata (en tomate)|17|8|2|100|1/2 lata
+Sardina fresca a la parrilla|25|10|0|100|3 sardinas
+Anchoveta frita|20|12|4|100|5 unidades
+Anchoveta en conserva|20|10|0|80|1/2 lata
+Pota (calamar gigante) cocida|18|2|1|150|1 porción
+Pulpo cocido|30|2|4|150|1 porción
+Calamar a la plancha|18|2|3|150|1 porción
+Calamar frito (aros apanados)|15|12|15|150|1 porción
+Camarones cocidos|24|0.3|0|100|10 camarones
+Camarones salteados (con aceite)|22|5|2|100|10 camarones
+Langostinos cocidos|24|1|0|100|5 langostinos
+Langostinos a la parrilla|22|4|0|100|5 langostinos
+Conchas negras (carne)|10|1|3|100|8 conchas
+Choros (mejillones) cocidos|12|2.2|3.7|100|8 choros
+Conchas de abanico a la plancha|17|1|3|100|4 conchas
+Erizo (lenguas)|13|5|3|50|3 lenguas
+Cangrejo cocido (carne)|19|1.5|0|100|1 porción
+Almejas cocidas|15|1|3|100|1 porción
+Machas cocidas|12|1|3|100|6 machas
+Ostras crudas|9|2|5|100|6 ostras
+Caracol de mar cocido|20|1|2|100|1 porción
+Paiche a la plancha|26|3|0|150|1 filete
+Paiche ahumado|30|4|0|100|1 porción
+Gamitana a la plancha|23|7|0|150|1 filete
+Boquichico frito|18|10|5|150|3 unidades
+Doncella a la plancha|22|4|0|150|1 filete
+Paco a la plancha|22|8|0|150|1 filete
+Zúngaro a la plancha|21|5|0|150|1 filete
+Sábalo frito|20|14|3|150|1 filete
+Bacalao cocido|23|1|0|150|1 filete
+Surimi (kanikama)|8|1|9|60|3 barritas
+Pescado seco salado|60|5|0|40|1 porción
+Filete de pescado frito (genérico)|20|10|4|180|1 filete
+Filete de pescado apanado (empanizado)|16|11|14|150|1 filete
+Filete de pescado al horno (genérico)|22|4|0|180|1 filete
+Filete de pescado hervido (genérico)|21|2|0|180|1 filete
+Pescado frito entero (genérico, porción comestible)|19|11|5|200|1 pescado
+Huevas de pescado (cocidas)|22|6|1|80|1 porción
+Camarón de río cocido|20|1|0|100|1 porción
+Chita a la plancha|21|3|0|150|1 filete
+Cachema a la plancha|20|2.5|0|150|1 filete
+Lorna a la plancha|20|3|0|150|1 filete
+Pescado blanco al vapor|21|2|0|180|1 filete
+Camarones apanados (fritos)|14|13|18|100|6 camarones

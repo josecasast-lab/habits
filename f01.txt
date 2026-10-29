@@ -1,0 +1,130 @@
+## Cereales y granos
+Arroz blanco cocido (sin grasa)|2.7|0.3|28|150|1 taza
+Arroz blanco peruano graneado (con aceite y ajo)|3|4|29|180|1 plato mediano
+Arroz blanco crudo|6.7|0.7|79|60|1/3 taza
+Arroz integral cocido|2.7|1|25.6|150|1 taza
+Arroz integral crudo|7.5|2.7|76|60|1/3 taza
+Arroz parboilizado cocido|2.9|0.3|26|150|1 taza
+Arroz con fideos (arroz tostado con cabello de ángel)|3.5|4.5|30|180|1 plato
+Arroz a la jardinera (con arvejas, zanahoria y choclo)|3|3.5|26|200|1 plato
+Arroz verde (solo arroz al culantro, sin presa)|3|4|27|200|1 plato
+Arroz amarillo (con ají amarillo)|3|4|28|200|1 plato
+Arroz con coco|2.5|5|28|180|1 plato
+Quinua cocida|4.4|1.9|21.3|150|1 taza
+Quinua cruda|14.1|6.1|64|50|1/4 taza
+Quinua inflada|11|5|72|30|1 puñado
+Hojuelas de quinua|13|6|64|40|4 cucharadas
+Kiwicha cocida|3.8|1.6|18.7|150|1 taza
+Kiwicha cruda|13.6|7|65|40|3 cucharadas
+Kiwicha inflada (pop)|12|6|72|30|1 puñado
+Cañihua cruda|14|4.3|64|40|1/4 taza
+Cañihua tostada molida (cañihuaco)|14|4.5|63|30|3 cucharadas
+Avena en hojuelas cruda|13.2|6.5|67.7|40|4 cucharadas
+Avena instantánea cruda|12|7|66|40|4 cucharadas
+Avena cocida con agua|2.5|1.5|12|240|1 taza
+Choclo desgranado cocido|3.3|1.4|25|100|1/2 taza
+Choclo (1 mazorca cocida, porción comestible)|3.4|1.5|21|200|1 mazorca
+Mote (maíz pelado cocido)|3.5|1.3|29|120|1/2 taza
+Cancha serrana (maíz tostado)|9|5|74|30|1 puñado
+Trigo mote (trigo pelado cocido)|4|0.8|27|120|1/2 taza
+Trigo tostado (cancha de trigo)|11|2|75|30|1 puñado
+Cebada perlada cocida|2.3|0.4|28|150|1 taza
+Cebada tostada molida|10|2|75|20|2 cucharadas
+Trigo sarraceno (alforfón) cocido|3.4|0.6|20|150|1 taza
+Cuscús cocido|3.8|0.2|23|150|1 taza
+Polenta cocida|1.6|0.4|15|200|1 plato
+Sémola de trigo cruda|12.7|1.1|73|40|4 cucharadas
+Harina de trigo|10|1|76|30|3 cucharadas
+Harina de maíz|7|3.9|77|30|3 cucharadas
+Harina de quinua|13|6|67|30|3 cucharadas
+Harina de kiwicha|13|6.5|65|30|3 cucharadas
+Harina de arroz|6|1.4|80|30|3 cucharadas
+Maca en polvo|14|2|71|10|1 cucharada
+Salvado de trigo|15.5|4.3|64|15|1 cucharada
+Granola casera|10|18|60|40|1/3 taza
+Muesli|10|6|66|40|1/3 taza
+Maicena (almidón de maíz)|0.3|0.1|91|10|1 cucharada
+Arroz inflado (cereal natural)|6|1|83|30|1 taza
+
+## Pastas
+Espagueti cocido (solo fideo)|5.8|0.9|31|200|1 plato
+Tallarín cocido (solo fideo, sin salsa)|5.8|0.9|31|200|1 plato
+Cabello de ángel cocido|5.8|0.9|31|150|1 plato chico
+Macarrón / codito cocido|5.8|0.9|31|150|1 plato chico
+Penne cocido|5.8|0.9|31|150|1 plato chico
+Fusilli (tirabuzón) cocido|5.8|0.9|31|150|1 plato chico
+Fideo canuto cocido|5.8|0.9|31|120|1 plato chico
+Fideo cocido al dente (genérico)|5.8|0.9|31|180|1 plato
+Pasta seca cruda (fideos)|13|1.5|75|80|1 porción cruda
+Lasaña (láminas cocidas, solo pasta)|5|1.1|25|100|2 láminas
+Fideo integral cocido|5.3|0.5|26|200|1 plato
+Fideo de arroz cocido|0.9|0.2|25|150|1 plato chico
+Fideo de huevo cocido|4.5|2.1|25|150|1 plato chico
+Ñoquis de papa cocidos (solo ñoquis)|3.4|0.5|29|150|1 plato
+Ravioles de carne (cocidos, sin salsa)|8|7|23|150|1 plato
+Ravioles de queso (cocidos, sin salsa)|8|8|24|150|1 plato
+Ravioles de espinaca y ricota (cocidos, sin salsa)|7|7|24|150|1 plato
+Tortellini de queso (cocidos, sin salsa)|8|7.5|25|150|1 plato
+Canelones rellenos de carne con bechamel|10|9|15|250|2 canelones
+Fideos instantáneos (solo fideo cocido, sin sopa)|4.5|7.5|26|100|1 bloque cocido
+Tallarines verdes (solo fideo con salsa de albahaca y espinaca)|6|7|27|250|1 plato
+Tallarines rojos (solo fideo con salsa roja)|5|4|30|250|1 plato
+Tallarines a la huancaína (solo fideo con salsa huancaína)|5|8|27|250|1 plato
+Tallarines al pesto (fideo con pesto)|6|11|27|250|1 plato
+Tallarines a la boloñesa (fideo con carne molida)|8|5|26|300|1 plato
+Tallarines a la carbonara (fideo con tocino y crema)|8|13|25|250|1 plato
+Tallarines Alfredo (fideo con salsa blanca)|6|10|26|250|1 plato
+Tallarines al ajo y aceite|5|7|29|220|1 plato
+Fideos con atún y tomate|9|4|25|280|1 plato
+Macarrones con queso|8|10|24|250|1 plato
+Fideos con mantequilla|5|5|29|200|1 plato
+Fideos con crema de espinaca|6|8|26|250|1 plato
+Spaghetti de lentejas cocido|9|1|24|150|1 plato chico
+Fideos de zapallito (zoodles) salteados|1.5|3|4|200|1 plato
+
+## Panes y panadería
+Pan francés (1 unidad)|9|1.6|56|45|1 unidad
+Pan de molde blanco|8|3.5|49|28|1 rebanada
+Pan de molde integral|9|4|43|30|1 rebanada
+Pan integral artesanal|10|3.2|41|40|1 rebanada gruesa
+Pan ciabatta|9|3|52|60|1 unidad chica
+Pan de yema|8|10|52|50|1 unidad
+Pan de camote|6|5|55|60|1 unidad
+Pan Cuzco (pan grande cusqueño)|8|3|56|100|1 rebanada gruesa
+Pan chuta (cusqueño dulce)|8|8|52|80|1 unidad
+Pan serrano|9|1.5|55|60|1 unidad
+Pan de tres puntas|9|1|54|50|1 unidad
+Pan árabe (pita)|9|1.2|56|60|1 unidad
+Pan pita integral|10|3|50|60|1 unidad
+Pan de hamburguesa|9|4|49|60|1 unidad
+Pan de hamburguesa integral|10|4|44|60|1 unidad
+Pan de hot dog|9|4|50|50|1 unidad
+Pan de ajo|8|16|45|40|1 rebanada
+Pan brioche|9|16|47|50|1 unidad
+Baguette|9|1.5|55|50|1 trozo
+Pan de masa madre|8|1|49|50|1 rebanada
+Pan de pasas|8|5|52|50|1 rebanada
+Pan relleno de jamón|11|13|34|100|1 unidad
+Pan de Chancay|7|3|58|60|1 unidad
+Pan integral con semillas|11|6|40|45|1 rebanada
+Pan de quinua|10|4|44|45|1 rebanada
+Pan de centeno|8.5|3.3|48|32|1 rebanada
+Pan sin gluten|3|6|50|30|1 rebanada
+Tostadas Melba|11|4|75|10|2 unidades
+Croissant simple|8.2|21|46|60|1 unidad
+Croissant de jamón y queso|13|18|30|120|1 unidad
+Empanada de carne al horno|9|13|29|120|1 unidad
+Empanada de pollo al horno|10|12|28|120|1 unidad
+Empanada de queso al horno|9|16|28|100|1 unidad
+Empanada de carne frita|9|20|28|100|1 unidad
+Empanada de queso frita|9|22|27|90|1 unidad
+Pastelito de hojaldre con carne|9|22|28|90|1 unidad
+Hojaldre (masa)|7|38|46|40|1 trozo
+Bizcocho simple|6|7|57|60|1 porción
+Waffle|7.9|14|33|75|1 unidad
+Panqueque (pancake)|6|9|31|70|1 unidad
+Crepe simple|6|9|24|60|1 unidad
+Tortilla de trigo (wrap)|8|7|50|60|1 unidad
+Tortilla de maíz|5.7|2.9|44|30|1 unidad
+Masa de pizza cruda|8.5|3|50|100|1 porción
+Pan de molde tostado|8|3.5|49|25|1 rebanada

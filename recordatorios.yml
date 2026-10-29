@@ -1,0 +1,43 @@
+name: Recordatorios de hábitos
+
+# Horas en UTC. Lima es UTC-5 todo el año (sin horario de verano).
+# GitHub puede retrasar los cron algunos minutos.
+on:
+  schedule:
+    - cron: '30 12 * * *'   # 07:30 Lima - agradecer (ventana hasta 12:00)
+    - cron: '0 13 * * *'    # 08:00 Lima - To-Do del día
+    - cron: '30 14 * * *'   # 09:30 Lima - registrar desayuno
+    - cron: '15 16 * * *'   # 11:15 Lima - última llamada para agradecer
+    - cron: '30 19 * * *'   # 14:30 Lima - registrar almuerzo
+    - cron: '0 22 * * *'    # 17:00 Lima - entrenar
+    - cron: '0 1 * * *'     # 20:00 Lima - leer y registrar cena
+    - cron: '0 2 * * *'     # 21:00 Lima - se habilita pantalla, cierre del día
+    - cron: '30 3 * * *'    # 22:30 Lima - último aviso
+  workflow_dispatch:
+
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar recordatorio por ntfy
+        env:
+          TOPIC: ${{ secrets.NTFY_TOPIC }}
+          APP_URL: ${{ vars.APP_URL }}
+          CRON: ${{ github.event.schedule }}
+        run: |
+          case "$CRON" in
+            "30 12 * * *") TITLE="Agradece por el día"; MSG="Tómate un minuto y agradece. Márcalo en la app antes de las 12:00."; TAG="pray";;
+            "0 13 * * *")  TITLE="Buenos días"; MSG="Revisa tu To-Do de hoy y empieza por la tarea más importante."; TAG="clipboard";;
+            "30 14 * * *") TITLE="Desayuno"; MSG="Registra tu desayuno con todo el detalle: cada alimento y su cantidad."; TAG="sunrise";;
+            "15 16 * * *") TITLE="Última llamada: gratitud"; MSG="La ventana para agradecer cierra a las 12:00. Márcalo ahora."; TAG="hourglass_flowing_sand";;
+            "30 19 * * *") TITLE="Almuerzo"; MSG="Registra tu almuerzo: plato principal, arroz, guarniciones y bebida por separado."; TAG="green_salad";;
+            "0 22 * * *")  TITLE="A entrenar"; MSG="Tu entrenamiento del día: hazlo ahora y registra qué ejercicio hiciste."; TAG="muscle";;
+            "0 1 * * *")   TITLE="Lectura y cena"; MSG="Lee tus páginas de hoy, anótalas en la app y registra tu cena."; TAG="books";;
+            "0 2 * * *")   TITLE="Cierre del día"; MSG="Ya puedes registrar tus horas de pantalla. Revisa calorías y planifica el To-Do de mañana."; TAG="crescent_moon";;
+            "30 3 * * *")  TITLE="Último aviso"; MSG="¿Cerraste el día? Completa tus anillos antes de dormir."; TAG="warning";;
+            *)             TITLE="Prueba"; MSG="Los recordatorios de hábitos funcionan."; TAG="white_check_mark";;
+          esac
+          if [ -z "$TOPIC" ]; then echo "Falta el secreto NTFY_TOPIC"; exit 1; fi
+          curl -sS -H "Content-Type: application/json" \
+            -d "{\"topic\":\"$TOPIC\",\"title\":\"$TITLE\",\"message\":\"$MSG\",\"priority\":4,\"tags\":[\"$TAG\"],\"click\":\"$APP_URL\"}" \
+            https://ntfy.sh/

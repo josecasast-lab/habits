@@ -1,0 +1,181 @@
+## Postres y dulces
+Mazamorra morada|0.5|0.1|22|200|1 vaso
+Arroz con leche|3|3|22|200|1 porción
+Arroz zambito|3|3|26|200|1 porción
+Mazamorra de calabaza (zapallo)|2|1.5|20|200|1 porción
+Mazamorra de quinua|3|2|20|200|1 porción
+Mazamorra de maicena|2.5|2|23|200|1 porción
+Suspiro a la limeña|3|6|45|120|1 porción
+Flan casero|5|6|22|120|1 porción
+Flan de leche (de caja)|3|3.5|20|120|1 porción
+Gelatina de sabores preparada|1.5|0|16|150|1 vaso
+Gelatina sin azúcar|1|0|0.5|150|1 vaso
+Picarones (3 unidades con miel de chancaca)|3|12|55|150|3 unidades
+Alfajor de maicena con manjar blanco|4|13|65|40|1 unidad
+Alfajor bañado de chocolate|4|15|68|50|1 unidad
+Turrón de doña Pepa (porción)|3|8|75|70|1 trozo
+King Kong de manjar y dulce de piña|5|13|63|100|1 porción
+Churros rellenos de manjar blanco|4|16|55|60|1 churro
+Churros simples|4|20|40|60|2 churros
+Queso helado|3|8|23|100|1 copa
+Champús|1|1|25|200|1 vaso
+Ranfañote|3|8|50|150|1 porción
+Cocada|3|18|60|40|1 trozo
+Pie de limón|4|14|40|110|1 porción
+Pie de manzana|3|13|38|120|1 porción
+Torta de chocolate|5|18|50|100|1 porción
+Torta tres leches|5|10|35|120|1 porción
+Torta helada|4|14|35|110|1 porción
+Torta de vainilla (queque)|5|12|55|80|1 porción
+Queque de naranja|5|13|52|80|1 porción
+Queque de plátano|5|11|50|80|1 porción
+Queque de zanahoria|5|15|45|90|1 porción
+Cheesecake|6|22|28|110|1 porción
+Brownie|5|20|50|60|1 unidad
+Muffin de arándanos|5|14|50|100|1 unidad
+Cupcake con crema|4|16|55|70|1 unidad
+Donut glaseado|5|20|50|60|1 unidad
+Donut relleno de manjar|5|18|50|70|1 unidad
+Panetón|8|11|66|80|1 tajada
+Mil hojas|5|20|40|100|1 porción
+Tiramisú|5|16|30|120|1 porción
+Crème brûlée|4|22|22|100|1 porción
+Mousse de chocolate|5|18|25|100|1 porción
+Mousse de maracuyá|3|14|28|100|1 porción
+Panna cotta|3|15|22|100|1 porción
+Helado de vainilla|3.5|11|24|100|1 bola
+Helado de chocolate|4|11|28|100|1 bola
+Helado de lúcuma|3.5|10|27|100|1 bola
+Helado de fresa|3|10|25|100|1 bola
+Helado de coco|3|13|23|100|1 bola
+Helado de paleta de agua (fruta)|0|0|20|70|1 paleta
+Helado de crema en paleta|3|10|25|70|1 paleta
+Helado en cono|3.5|11|28|120|1 cono
+Cremolada de fruta|0.5|0|22|120|1 vaso
+Marciano (helado en bolsita)|0|0|18|70|1 unidad
+Chocolate negro 70%|8|43|34|20|2 cuadraditos
+Chocolate negro 85%|10|50|20|20|2 cuadraditos
+Chocolate con leche|7|30|59|25|1 barrita
+Chocolate blanco|6|32|59|25|1 barrita
+Sublime (barra de chocolate con maní)|7|28|58|30|1 barra
+Triángulo de chocolate (D'Onofrio)|5|30|58|25|1 triángulo
+Chocman|5|19|65|35|1 barra
+Chocotejas (unidad)|4|20|65|35|1 unidad
+Bon o Bon|5|28|60|17|1 unidad
+Manjar blanco (cucharada)|6|7|57|20|1 cucharada
+Dulce de leche|6|7|57|20|1 cucharada
+Nutella (crema de avellanas con cacao)|6|31|58|15|1 cucharada
+Crema de maní dulce|8|30|50|15|1 cucharada
+Mermelada de fresa|0.5|0.1|60|15|1 cucharada
+Jalea de membrillo|0.3|0|65|20|1 cucharada
+Caramelos duros|0|0|98|10|2 caramelos
+Gomitas|6|0|78|30|10 gomitas
+Chupetín (chupete)|0|0|90|15|1 unidad
+Algodón de azúcar|0|0|100|30|1 porción
+Mazamorra morada con arroz con leche (combinado)|2|1.5|22|250|1 vaso
+Natilla (budín de leche)|3|3|20|120|1 porción
+Pudín de pan|6|8|35|120|1 porción
+Camote enmielado (con chancaca)|1.5|0.2|35|150|1 porción
+Dulce de membrillo|0.4|0|68|40|1 trozo
+Frutas confitadas|0.5|0.2|78|30|1 puñado
+Cachangas (pan frito dulce)|6|12|50|60|1 unidad
+Pastelito de manzana frito|4|14|40|70|1 unidad
+Barquillo relleno de manjar|3|12|68|30|1 unidad
+Cuchareable de chocolate|3.5|3.5|20|100|1 pote
+
+## Bebidas
+Agua|0|0|0|250|1 vaso
+Agua con gas|0|0|0|250|1 vaso
+Agua saborizada (con azúcar)|0|0|3.5|500|1 botella
+Chicha morada con azúcar|0.1|0|11|250|1 vaso
+Chicha morada sin azúcar|0.1|0|3|250|1 vaso
+Chicha de jora|0.3|0|5|250|1 vaso|40
+Emoliente con azúcar|0.2|0|7|250|1 vaso
+Emoliente sin azúcar|0.2|0|1.5|250|1 vaso
+Limonada (con azúcar)|0.1|0|10|250|1 vaso
+Limonada frozen|0.1|0|12|300|1 vaso
+Maracuyá (refresco con azúcar)|0.2|0|11|250|1 vaso
+Jugo de naranja natural|0.7|0.2|10|250|1 vaso
+Jugo de papaya|0.4|0.1|11|250|1 vaso
+Jugo de piña|0.4|0.1|12|250|1 vaso
+Jugo de plátano con leche|2.5|2|14|300|1 vaso
+Jugo surtido (papaya, plátano, piña, naranja)|0.8|0.2|13|300|1 vaso
+Jugo de fresa con leche|2.5|2|11|300|1 vaso
+Jugo de mango|0.5|0.1|14|250|1 vaso
+Jugo de granadilla|0.5|0.1|12|250|1 vaso
+Jugo de camu camu (con azúcar)|0.2|0|10|250|1 vaso
+Jugo de aguaymanto (con azúcar)|0.4|0.1|10|250|1 vaso
+Jugo de zanahoria|0.9|0.2|8|250|1 vaso
+Jugo de beterraga|1.2|0.1|8|250|1 vaso
+Jugo de zanahoria con naranja|0.9|0.2|9|250|1 vaso
+Jugo de manzana envasado|0.1|0.1|11|250|1 vaso
+Néctar de durazno envasado (tipo Frugos)|0.1|0|13|250|1 vaso
+Néctar de mango envasado|0.1|0|13|250|1 vaso
+Jugo de piña con hierbabuena|0.3|0.1|11|250|1 vaso
+Extracto de verduras (apio, nopal, piña)|0.8|0.1|7|250|1 vaso
+Inca Kola|0|0|10.6|500|1 botella personal
+Inca Kola (vaso)|0|0|10.6|250|1 vaso
+Coca-Cola|0|0|10.6|500|1 botella personal
+Coca-Cola (vaso)|0|0|10.6|250|1 vaso
+Pepsi|0|0|11|500|1 botella personal
+Sprite|0|0|9|500|1 botella personal
+Fanta|0|0|11.5|500|1 botella personal
+Kola Real|0|0|10.5|500|1 botella personal
+Inca Kola Zero|0|0|0|500|1 botella personal|1
+Coca-Cola Zero|0|0|0|500|1 botella personal|1
+Gatorade|0|0|6|500|1 botella
+Powerade|0|0|6|500|1 botella
+Red Bull|0.4|0|11|250|1 lata
+Monster Energy|0|0|11|473|1 lata
+Té negro sin azúcar|0|0|0|240|1 taza|1
+Té verde sin azúcar|0|0|0|240|1 taza|1
+Té con una cucharadita de azúcar|0|0|2|240|1 taza
+Manzanilla / anís / hierbas (infusión)|0|0|0|240|1 taza|1
+Café negro sin azúcar|0.1|0|0|240|1 taza|2
+Café negro con una cucharadita de azúcar|0.1|0|2|240|1 taza
+Café con leche (con azúcar)|1.5|1.5|5|300|1 taza
+Café americano|0.1|0|0|300|1 taza|2
+Café latte|3|3|5|300|1 taza
+Capuchino|3|3|5|240|1 taza
+Mocachino|3|3.5|10|300|1 taza
+Chocolate caliente con leche|3|3.5|12|250|1 taza
+Milo preparado con leche|3.5|2.5|12|250|1 vaso
+Leche chocolatada (Gloria)|3|2|10.5|250|1 vaso
+Ensure preparado|4|3.5|14|240|1 vaso
+Batido de plátano con leche|3|2|14|300|1 vaso
+Smoothie de frutas con yogur|2|1|15|300|1 vaso
+Quinua con manzana (bebida)|1|0.5|12|250|1 vaso
+Avena preparada con leche y azúcar|3|2|14|300|1 vaso
+Quaker preparado con agua y azúcar|1.5|1|11|300|1 vaso
+Cebada con leche|3|2|12|250|1 taza
+Agua de cebada|0.3|0|2|250|1 vaso
+Chicha de maní|2|3|10|250|1 vaso
+Refresco de cebada|0.3|0|8|250|1 vaso
+Cerveza (pilsen)|0.5|0|3.6|330|1 lata|43
+Cerveza (Cusqueña)|0.5|0|3.6|330|1 botella|43
+Cerveza (Cristal)|0.5|0|3.6|330|1 lata|43
+Cerveza light|0.4|0|1.6|330|1 lata|29
+Cerveza artesanal IPA|0.6|0|5|330|1 botella|55
+Vino tinto|0.1|0|2.6|150|1 copa|85
+Vino blanco|0.1|0|2.6|150|1 copa|82
+Espumante|0.2|0|3|120|1 copa|80
+Pisco puro|0|0|0.4|50|1 shot|230
+Pisco sour|0.5|0|6|120|1 copa|120
+Chilcano de pisco|0|0|5|250|1 vaso|60
+Algarrobina (cóctel)|1.5|1.5|18|120|1 copa|150
+Capitán (pisco con vermut)|0|0|4|100|1 copa|130
+Ron|0|0|0|45|1 shot|230
+Whisky|0|0|0|45|1 shot|250
+Vodka|0|0|0|45|1 shot|230
+Tequila|0|0|0|45|1 shot|230
+Cuba libre|0|0|8|250|1 vaso|70
+Caipiriña|0|0|10|200|1 vaso|110
+Sangría|0.2|0|8|200|1 vaso|70
+Mojito|0|0|8|250|1 vaso|70
+Aguardiente|0|0|0|45|1 shot|230
+Licor de café|0.3|0.2|30|30|1 copita|250
+Chicha morada en polvo preparada|0|0|10|250|1 vaso
+Agua de coco natural|0.7|0.2|3.7|250|1 vaso
+Kombucha|0|0|3|250|1 vaso
+Leche de almendras con cacao|0.6|1.2|6|250|1 vaso
+Batido de proteína con agua|8|1|2|350|1 vaso

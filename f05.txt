@@ -1,0 +1,173 @@
+## Platos peruanos
+Lomo saltado (solo salteado de res, sin arroz ni papas)|11|7|5|250|1 porción
+Lomo saltado completo (con arroz y papas fritas)|6|8|24|500|1 plato
+Pollo saltado (solo salteado, sin arroz ni papas)|12|6|5|250|1 porción
+Pollo saltado completo (con arroz y papas fritas)|6.5|7.5|24|500|1 plato
+Chancho saltado (solo salteado)|11|10|5|250|1 porción
+Mariscos saltados (solo salteado)|11|6|5|250|1 porción
+Verduras saltadas con soya (salteado vegetariano)|3|5|8|250|1 porción
+Tallarín saltado de carne (plato completo)|7|6|20|380|1 plato
+Tallarín saltado de pollo (plato completo)|7|5.5|20|380|1 plato
+Tallarín saltado de verduras (plato completo)|4|5|24|350|1 plato
+Tallarín saltado de mariscos (plato completo)|7|5|21|380|1 plato
+Aeropuerto (arroz chaufa con tallarín saltado)|6.5|7|26|450|1 plato
+Ají de gallina (solo crema con pollo, sin arroz ni papa)|10|12|6|200|1 porción
+Ají de gallina completo (con arroz, papa, huevo y aceituna)|6|6|17|450|1 plato
+Arroz con pollo (completo, con presa y arroz verde)|7|5|18|400|1 plato
+Arroz con pollo sin presa (solo arroz)|3.5|4.5|26|250|1 plato
+Seco de res (solo guiso, sin arroz ni frejoles)|11|8|3|200|1 porción
+Seco de res con frejoles y arroz (completo)|6.5|5|17|500|1 plato
+Seco de cordero (solo guiso)|12|11|3|200|1 porción
+Seco de cabrito (solo guiso)|14|9|3|200|1 porción
+Seco de pollo (solo guiso)|12|7|3|200|1 porción
+Seco de pato (solo guiso)|11|10|3|200|1 porción
+Arroz con pato (completo)|8|7|20|400|1 plato
+Arroz con mariscos (completo)|6.5|5|21|400|1 plato
+Arroz con conchas negras|4|5|24|350|1 plato
+Arroz tapado (arroz con picadillo de carne)|7|7|22|350|1 plato
+Picadillo de carne (solo picadillo)|12|10|6|150|1 porción
+Arroz chaufa de pollo|6|6|28|350|1 plato
+Arroz chaufa de carne|7|7|27|350|1 plato
+Arroz chaufa de chancho|6.5|8|27|350|1 plato
+Arroz chaufa de mariscos|7|5|26|350|1 plato
+Arroz chaufa especial (pollo, cerdo y res)|7|7|27|350|1 plato
+Arroz chaufa vegetariano|4|5|28|350|1 plato
+Arroz chaufa solo (sin carne, con huevo y cebolla china)|4.5|5|30|300|1 plato
+Tacu tacu de frijoles (solo tacu tacu)|6|8|24|250|1 porción
+Tacu tacu con lomo saltado (completo)|8|8.5|20|500|1 plato
+Tacu tacu con huevo frito y plátano|7|9|25|400|1 plato
+Ceviche de pescado (solo ceviche con su leche de tigre)|13|1.5|3|220|1 porción
+Ceviche mixto (solo pescado y mariscos)|14|1.5|4|220|1 porción
+Ceviche de conchas negras (solo ceviche)|10|1.2|4|200|1 porción
+Ceviche de camarones (solo ceviche)|13|1|3|200|1 porción
+Ceviche de pulpo (solo ceviche)|14|1.5|3|200|1 porción
+Ceviche de langostinos (solo ceviche)|13|1|3|200|1 porción
+Ceviche de pota (solo ceviche)|12|1|3|200|1 porción
+Ceviche de pescado con camote y choclo (completo)|9|1|12|450|1 plato
+Ceviche de champiñones|3|3|6|200|1 porción
+Tiradito de pescado (solo pescado con ají amarillo)|15|2|3|180|1 porción
+Leche de tigre (solo el líquido)|4|0.5|3|100|1 vasito
+Leche de tigre con pescado picado|9|1|3|150|1 copa
+Jalea mixta (solo mariscos y pescado fritos, sin yuca)|15|14|12|300|1 porción
+Chicharrón de pescado (solo pescado frito apanado)|17|13|10|200|1 porción
+Chicharrón de calamar (solo calamar apanado)|14|12|15|200|1 porción
+Chicharrón de pota (solo pota apanada)|13|13|16|200|1 porción
+Chicharrón de mariscos (mixto)|14|13|14|250|1 porción
+Pescado frito (filete, solo pescado)|20|10|4|180|1 filete
+Sudado de pescado (solo pescado con salsa)|12|3|4|300|1 porción
+Pescado a lo macho (solo pescado con salsa de mariscos)|12|8|5|300|1 porción
+Pescado a la chorrillana (solo pescado con salsa)|13|6|5|300|1 porción
+Escabeche de pescado (solo pescado y cebolla)|14|7|4|250|1 porción
+Escabeche de pollo (solo pollo y cebolla)|15|8|4|250|1 porción
+Chinguirito de pescado seco|25|12|3|100|1 porción
+Choritos a la chalaca (6 choros con salsa criolla)|10|4|6|150|6 choros
+Machas a la parmesana (6 machas)|14|14|4|150|6 machas
+Conchas a la parmesana (4 conchas)|14|14|4|150|4 conchas
+Pulpo al olivo|13|24|3|120|1 porción
+Palta rellena de pollo|5|12|5|250|1 palta
+Palta rellena de atún|6|13|5|250|1 palta
+Palta rellena de verduras|2|10|8|250|1 palta
+Causa limeña de pollo (porción completa)|4|6.5|13|220|1 porción
+Causa de atún|5|6|14|220|1 porción
+Causa de palta|2|7|14|220|1 porción
+Causa de camarones|5|6|13|220|1 porción
+Causa de pulpo|5|6|13|220|1 porción
+Causa de langostinos|5|6|13|220|1 porción
+Papa a la huancaína (papas con crema de huancaína)|3|6|13|250|1 plato
+Papa a la huancaína con huevo y aceituna|4|7|12|280|1 plato
+Ocopa (papas con salsa de ocopa)|3.5|7|12|250|1 plato
+Papa rellena (frita, unidad)|6|11|22|180|1 unidad
+Papa rellena al horno (unidad)|6|6|23|180|1 unidad
+Papa rellena con ensalada criolla (plato)|5|8|17|250|1 plato
+Pastel de papa (porción)|4|6|10|200|1 porción
+Rocoto relleno (solo rocoto relleno de carne y queso)|9|9|6|200|1 unidad
+Rocoto relleno con pastel de papa (completo)|7|8|11|350|1 plato
+Solterito arequipeño (habas, queso, choclo, tomate)|4|5|10|200|1 plato
+Soltero de queso|6|7|12|200|1 plato
+Cau cau (solo guiso de mondongo con papa, sin arroz)|8|5|6|300|1 porción
+Carapulcra (solo carapulcra)|8|8|18|200|1 porción
+Carapulcra con sopa seca (completo)|5|6|22|400|1 plato
+Sopa seca (solo fideos con salsa roja)|4|5|28|250|1 plato
+Adobo de chancho (solo adobo)|11|12|3|220|1 porción
+Adobo arequipeño (solo adobo)|11|11|3|250|1 porción
+Chicharrón de cerdo con camote y salsa criolla (completo)|11|14|17|300|1 plato
+Pan con chicharrón (sándwich completo con camote y salsa criolla)|11|12|29|250|1 sándwich
+Lechón al horno con salsa (solo carne)|20|24|2|150|1 porción
+Chicharrón de pollo (solo pollo frito crocante)|20|17|10|150|1 porción
+Anticuchos de corazón (3 palitos, solo carne)|24|7|1|150|3 palitos
+Anticuchos de corazón con papa y choclo (completo)|13|4|15|350|1 plato
+Anticuchos de pollo (3 palitos, solo carne)|22|8|2|150|3 palitos
+Anticuchos de res (3 palitos, solo carne)|25|9|1|150|3 palitos
+Anticuchos de mollejitas (3 palitos)|20|9|1|120|3 palitos
+Anticuchos de pescado (3 palitos)|22|8|2|150|3 palitos
+Rachi frito|16|14|0|100|1 porción
+Mollejitas de pollo fritas|24|14|4|100|1 porción
+Cecina con tacacho (completo)|12|18|22|300|1 plato
+Pollo a la brasa — 1/4 pierna (solo pollo con piel)|24|14|0|220|1/4 pollo
+Pollo a la brasa — 1/4 pecho (solo pollo con piel)|27|11|0|220|1/4 pollo
+Pollo a la brasa — 1/4 pecho sin piel|29|4.5|0|180|1/4 pollo
+Pollo a la brasa — 1/8 de pollo (presa)|25|13|0|130|1 presa
+Pollo a la brasa — 1/2 pollo (solo pollo con piel)|25|13|0|450|1/2 pollo
+Pollo a la brasa 1/4 con papas fritas y ensalada (completo)|13|12|15|450|1 plato
+Pollo al horno con papas (completo)|12|6|10|400|1 plato
+Pollo al ajo (solo pollo con salsa)|20|10|3|200|1 porción
+Estofado de pollo (solo guiso)|10|6|7|250|1 porción
+Estofado de res (solo guiso)|11|6|7|250|1 porción
+Guiso de pollo con papas|9|5|10|300|1 plato
+Bistec a lo pobre (completo: bistec, arroz, papas, plátano y huevo)|8|12|22|550|1 plato
+Lomo a lo pobre (completo)|8|12|22|550|1 plato
+Bistec a lo pobre (solo bistec con huevo frito)|20|14|1|250|1 porción
+Milanesa de pollo con arroz y ensalada (completo)|9|7|20|450|1 plato
+Menú: arroz con menestra y pollo frito (completo)|9|8|20|450|1 plato
+Menú: arroz con huevo frito y plátano frito (completo)|5|8|28|350|1 plato
+Menú: arroz con papas fritas y huevo frito|5|10|27|350|1 plato
+Menú: arroz con lentejas y bistec (completo)|9|7|20|450|1 plato
+Menú: arroz con frejoles y pescado frito (completo)|9|7|20|450|1 plato
+Tortilla de verduras (2 huevos, solo tortilla)|9|11|4|150|1 tortilla
+Tortilla de espinaca (solo tortilla)|10|10|3|150|1 tortilla
+Tortilla de papa (tipo española)|6|9|14|150|1 porción
+Tortilla de raya (solo tortilla)|20|10|3|150|1 tortilla
+Revuelto de huevo con tomate y cebolla|10|12|3|130|1 porción
+Huevos pericos (revuelto con tomate y cebolla)|10|12|3|130|1 porción
+Tallarines verdes con bistec (completo)|9|8|22|450|1 plato
+Tallarín rojo con pollo (completo)|8|5|24|450|1 plato
+Tallarín a la huancaína con lomo saltado|8|9|20|500|1 plato
+Fettuccine a la huancaína (solo fideo con salsa)|5|8|27|250|1 plato
+Tallarines con pollo al pesto (completo)|10|9|22|400|1 plato
+Olluquito con charqui (solo guiso)|7|5|10|200|1 porción
+Olluquito sin carne (guiso)|2|4|11|200|1 porción
+Tamal criollo de cerdo (con maní y ají)|6|9|22|200|1 unidad
+Tamal de pollo|6|8|24|200|1 unidad
+Tamal verde (norteño)|5|9|23|200|1 unidad
+Humita salada (de choclo)|4|8|22|120|1 unidad
+Humita dulce|3|7|28|120|1 unidad
+Butifarra (sándwich de jamón del país y salsa criolla)|12|12|24|220|1 sándwich
+Pan con pollo (sándwich con mayonesa)|11|8|27|200|1 sándwich
+Pan con tortilla de huevo|8|9|26|180|1 sándwich
+Pan con camote frito y huevo|7|9|32|220|1 sándwich
+Triple (pan de molde con palta, huevo, tomate y mayonesa)|7|14|22|200|1 triple
+Sándwich de jamón y queso (pan francés)|13|12|27|180|1 sándwich
+Sándwich de pollo deshilachado (pan francés)|14|7|28|200|1 sándwich
+Sándwich de pavo con queso|13|8|26|180|1 sándwich
+Sándwich de lomo saltado|9|9|25|250|1 sándwich
+Sándwich de atún|10|9|24|180|1 sándwich
+Sándwich de chicharrón de pollo|11|13|26|220|1 sándwich
+Sándwich de pavo a la peruana (pavo, palta y salsa criolla)|11|9|24|240|1 sándwich
+Pan con atún (pan francés)|11|7|30|150|1 pan
+Pan con queso fresco y palta|9|10|27|180|1 pan
+Cabrito a la norteña (solo guiso)|15|10|4|250|1 porción
+Arroz con cabrito (completo)|9|7|19|400|1 plato
+Majarisco (solo guiso, sin arroz)|9|8|18|350|1 plato
+Cuy chactado (1/2 cuy frito)|20|17|5|250|1/2 cuy
+Picante de cuy (solo guiso)|14|8|4|250|1 porción
+Cuy al horno con papas (completo)|12|8|10|350|1 plato
+Pachamanca (porción mixta con carnes, papa, camote, choclo y habas)|10|7|14|450|1 plato
+Juane de gallina (completo, sin ensalada)|8|8|22|300|1 juane
+Tacacho (solo tacacho de plátano)|4|14|25|100|1 unidad
+Patarashca de paiche|18|6|2|200|1 porción
+Ensalada de chonta|3|5|8|150|1 plato
+Chairo (solo sopa de chuño y cordero)|5|3|10|350|1 plato
+Picante a la tacneña (solo picante)|8|7|12|300|1 plato
+Chiri uchu (porción mixta)|18|14|6|300|1 plato
+Choclo con queso fresco|7|7|22|250|1 plato
+Cancha serrana con queso|10|10|40|100|1 porción

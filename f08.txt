@@ -1,0 +1,337 @@
+## Comida rápida y chatarra
+Hamburguesa simple (pan, carne y queso, completa)|13|11|24|150|1 hamburguesa
+Hamburguesa clásica con queso y papas (combo sin bebida)|9|13|27|350|1 combo
+Hamburguesa doble con queso (tipo Big Mac)|13|13|20|220|1 hamburguesa
+Hamburguesa con tocino y queso|15|15|18|250|1 hamburguesa
+Hamburguesa a lo pobre (con huevo y plátano frito)|12|14|18|300|1 hamburguesa
+Hamburguesa de pollo crispy|12|12|23|200|1 hamburguesa
+Hamburguesa vegetariana (de lentejas)|9|7|22|200|1 hamburguesa
+Hamburguesa royal (con huevo, jamón y queso)|14|14|20|280|1 hamburguesa
+Cheeseburger pequeña (menú infantil)|13|10|27|110|1 hamburguesa
+Hot dog peruano completo (con papitas al hilo y salsas)|8|14|22|130|1 hot dog
+Hot dog simple (pan y salchicha)|9|13|24|100|1 hot dog
+Hot dog con queso y tocino|11|18|20|150|1 hot dog
+Choripán completo|11|20|26|200|1 unidad
+Salchipapa clásica (salchicha frita con papas)|6|20|25|350|1 plato
+Salchipapa especial (con huevo, queso y hot dog)|8|21|22|450|1 plato
+Salchipollo (pollo frito, salchicha y papas)|10|17|22|450|1 plato
+Salchipapa con pollo broaster|10|17|20|450|1 plato
+Papas fritas de pollería (porción)|3.5|15|40|200|1 porción
+Papas fritas de comida rápida (porción mediana)|3.4|16|41|120|1 porción
+Papas fritas con queso cheddar|5|18|34|200|1 porción
+Papas fritas con cheddar y tocino|7|21|30|220|1 porción
+Papas al hilo|6|35|50|30|1 puñado
+Nuggets de pollo (6 unidades)|14|18|18|110|6 nuggets
+Nuggets de pollo (10 unidades)|14|18|18|180|10 nuggets
+Tenders de pollo (3 unidades)|18|13|13|150|3 tenders
+Alitas BBQ (5 unidades)|20|14|8|180|5 alitas
+Alitas picantes (5 unidades)|21|15|4|180|5 alitas
+Alitas apanadas (5 unidades)|18|16|10|200|5 alitas
+Pollo frito estilo KFC (presa)|20|16|10|140|1 presa
+Pollo broaster (presa)|21|18|10|140|1 presa
+Pollo frito con papas (combo)|12|15|18|350|1 combo
+Pizza americana (porción grande)|11|11|31|110|1 porción
+Pizza pepperoni (porción grande)|12|13|30|110|1 porción
+Pizza hawaiana (porción grande)|11|10|31|110|1 porción
+Pizza margarita (porción grande)|11|10|31|110|1 porción
+Pizza de 4 quesos (porción grande)|13|13|29|110|1 porción
+Pizza de carne (porción grande)|12|12|30|120|1 porción
+Pizza de pollo con champiñones (porción grande)|11|10|30|120|1 porción
+Pizza vegetariana (porción grande)|10|9|31|110|1 porción
+Pizza personal americana (completa)|11|11|31|250|1 pizza personal
+Pizza familiar americana (1/8 de pizza)|11|11|31|90|1 porción
+Pizza de masa delgada (porción)|11|10|29|90|1 porción
+Calzone de jamón y queso|11|12|30|200|1 unidad
+Pan con queso derretido (sándwich tostado)|13|15|30|130|1 sándwich
+Sándwich de pollo crispy|12|12|25|200|1 sándwich
+Sándwich de pescado empanizado|11|12|24|200|1 sándwich
+Sándwich de milanesa de pollo|13|9|26|220|1 sándwich
+Sándwich de milanesa de res|13|11|25|220|1 sándwich
+Sándwich de chorizo|11|18|24|200|1 sándwich
+Sándwich de chicharrón con camote|11|13|27|240|1 sándwich
+Sándwich de jamón del país con queso|13|13|25|200|1 sándwich
+Tequeños de queso (4 unidades)|10|22|35|100|4 unidades
+Empanadas fritas de queso (2 unidades)|9|22|27|180|2 unidades
+Piqueo criollo (chicharrón, yuca y choclo)|10|20|22|300|1 plato
+Anticuchos a la parrilla con papa (de la calle)|14|7|14|250|1 plato
+Choclo con queso (de la calle)|6|6|23|250|1 plato
+Pan con pollo broaster (sándwich)|12|13|28|220|1 sándwich
+Mini hamburguesas (3 unidades)|13|11|24|180|3 unidades
+Aros de cebolla fritos|3|18|35|100|1 porción
+Palitos de queso mozzarella fritos (4 unidades)|12|20|25|100|4 unidades
+Croquetas de jamón (4 unidades)|8|14|20|100|4 unidades
+Salchicha frita en palito (corn dog)|8|14|28|100|1 unidad
+Papa rellena frita de comida rápida|5|11|23|150|1 unidad
+Burrito de pollo (comida rápida)|9|8|24|250|1 burrito
+Tacos de carne (comida rápida, 2 unidades)|10|12|18|180|2 tacos
+Nachos con queso y carne|9|17|27|250|1 plato
+Quesadilla de pollo y queso|13|14|25|180|1 quesadilla
+Shawarma de pollo|11|9|20|250|1 shawarma
+Kebab de carne|12|10|20|250|1 kebab
+Arroz chaufa de comida rápida (envase)|6|7|27|350|1 envase
+Ramen instantáneo preparado (fideos + caldo)|3|4|14|400|1 tazón
+Ajinomen / fideos instantáneos preparados|3|4|14|400|1 tazón
+Sopa instantánea de pollo con fideos (tipo Maruchan)|3|4|14|400|1 tazón
+Pollo teriyaki (comida rápida, con arroz)|9|5|20|350|1 envase
+Pancakes con miel (3 unidades)|6|8|40|200|3 pancakes
+Waffles con crema y fruta|6|12|35|150|1 waffle
+Gaufre con manjar|5|12|45|150|1 unidad
+Salchicha a la parrilla con pan y salsas|10|16|23|180|1 unidad
+Chicharrón de pollo con papas (combo)|12|16|20|350|1 combo
+Wrap de pollo crispy|11|12|24|220|1 wrap
+Alitas con papas fritas (combo)|13|15|20|380|1 combo
+Menú infantil (hamburguesa, papas y jugo)|6|9|27|400|1 menú
+Pizza con borde relleno (porción)|12|14|31|120|1 porción
+Lasaña de carne (porción)|9|8|13|250|1 porción
+Salchipapa con hot dog y huevo frito|8|19|21|400|1 plato
+Ketchup con papas (porción grande de papas)|3.4|16|42|200|1 porción grande
+Maíz con mantequilla y mayonesa (esquites)|3|10|20|150|1 vaso
+Pop corn de cine con mantequilla (grande)|7|25|50|100|1 balde
+Pop corn de cine mediano|7|20|55|60|1 vaso
+Nachos de cine con queso|6|15|45|120|1 porción
+Hot dog de cine|8|14|24|150|1 hot dog
+Tostadas con mantequilla y azúcar|7|11|60|60|2 tostadas
+Mini tequeños con salsa de ají|9|18|36|120|6 unidades
+Chicharrón de chancho en sándwich grande|11|15|27|300|1 sándwich
+
+## Snacks y galletas
+Papas Lay's clásicas (bolsa pequeña)|6.5|34|53|30|1 bolsa pequeña
+Papas Lay's clásicas (bolsa mediana)|6.5|34|53|60|1 bolsa mediana
+Papitas Pringles|4|35|50|30|10 chips
+Papas nativas (tipo Inka Chips)|5|30|52|30|1 bolsa
+Camotitos (chips de camote)|3|30|58|30|1 bolsa
+Chifles de plátano salados|2|30|60|30|1 bolsa
+Cheetos (bolsa pequeña)|6|32|54|30|1 bolsa pequeña
+Cheese Tris|6|28|60|30|1 bolsa
+Doritos (bolsa pequeña)|7|26|60|30|1 bolsa pequeña
+Chizitos|6|28|60|30|1 bolsa
+Piqueo Snax|8|25|55|30|1 bolsa
+Karinto (maní salado)|22|45|25|30|1 bolsa
+Habas fritas saladas|20|20|50|30|1 bolsa
+Choclitos (maíz frito)|8|20|60|30|1 bolsa
+Cancha frita con sal|8|12|70|30|1 puñado
+Canchita (maíz reventado) con sal|10|13|78|30|1 puñado
+Popcorn de microondas con mantequilla|8|20|55|35|1 taza
+Chicharrón de cerdo empaquetado|50|35|0|30|1 bolsa
+Galleta soda (tipo Field)|9|8|72|30|3 galletas
+Galleta de agua|10|8|73|20|2 galletas
+Galleta Casino de fresa|6|18|68|36|1 paquete
+Galleta Casino de chocolate|6|18|67|36|1 paquete
+Galleta Oreo|5|20|68|34|3 galletas
+Galleta Margarita|7|13|72|30|1 paquete
+Galleta Ritz|7|20|65|30|6 galletas
+Galleta Tentación (rellena)|5|16|70|30|1 paquete
+Galleta Glacitas|5|15|75|30|1 paquete
+Galleta Chokis|6|20|68|30|1 paquete
+Galleta Hony Bran (avena y miel)|7|14|68|30|1 paquete
+Galleta María|8|12|75|25|4 galletas
+Galleta de animalitos|7|11|78|30|1 puñado
+Galleta de avena casera|6|15|65|30|2 galletas
+Galleta integral con fibra|9|14|65|30|1 paquete
+Galleta de soda integral|10|10|68|30|3 galletas
+Cua Cua (wafer con chocolate)|5|27|63|30|1 unidad
+Wafer relleno de vainilla|5|25|66|30|1 paquete
+Barra de cereal con fruta|5|9|75|25|1 barra
+Barra de granola con chocolate|6|15|65|35|1 barra
+Barra de cereal con proteína|20|10|38|50|1 barra
+Barra de quinua y kiwicha|9|10|65|30|1 barra
+Barra de frutos secos y miel|10|22|55|35|1 barra
+Chocolate en grajeas (M&M)|5|20|68|30|1 puñado
+Pasas bañadas en chocolate|4|15|75|30|1 puñado
+Mix de frutos secos y pasas|12|30|45|30|1 puñado
+Crackers integrales con queso|12|18|58|30|6 galletas
+Tostadas de arroz inflado|8|1|80|20|2 tostadas
+Tostadas de quinua con ajonjolí|12|10|65|20|3 tostadas
+Chips de yuca fritos|1.5|30|55|30|1 bolsa
+Chips de plátano horneado|1.5|15|70|30|1 puñado
+Choclo tostado (chulpi)|9|5|74|30|1 puñado
+Maní japonés|18|22|52|30|1 puñado
+Pistacho salado|20|45|28|30|1 puñado
+Alfajorcito de maicena|5|13|65|25|1 unidad
+Rosquitas de anís|6|12|70|30|3 rosquitas
+Rosquitas de pan (cachangas dulces)|7|10|55|30|3 unidades
+Barquillos|7|3|85|20|2 unidades
+Frutas deshidratadas mixtas|2|1|78|30|1 puñado
+Yogur con galleta (snack)|3|3|24|120|1 pote
+Gelatina con fruta (snack)|1|0.2|15|150|1 vaso
+Queso con galletas (snack)|10|14|35|60|1 porción
+Palitos de pan (grissini)|11|9|69|20|3 palitos
+
+## Internacional
+California roll (8 piezas)|4|2.5|22|200|8 piezas
+Maki acevichado (8 piezas)|6|5|22|220|8 piezas
+Maki de palta y queso crema (8 piezas)|4|5|24|200|8 piezas
+Maki de salmón (8 piezas)|6|3|24|200|8 piezas
+Maki frito (tempura, 8 piezas)|5|9|28|250|8 piezas
+Nigiri de salmón (2 piezas)|8|3|27|60|2 piezas
+Nigiri de atún (2 piezas)|9|1|28|60|2 piezas
+Sashimi de salmón (5 láminas)|20|13|0|80|5 láminas
+Sashimi de atún (5 láminas)|23|1|0|80|5 láminas
+Temaki de salmón|5|4|22|130|1 unidad
+Gyoza frita de cerdo (4 unidades)|8|8|20|100|4 unidades
+Tempura de langostinos (3 unidades)|9|12|20|90|3 unidades
+Tempura de verduras (porción)|3|12|28|100|1 porción
+Pollo teriyaki (solo pollo con salsa)|18|8|10|200|1 porción
+Pollo al curry (solo pollo con salsa)|12|9|6|250|1 porción
+Arroz al curry (con pollo y verduras, completo)|6|6|22|400|1 plato
+Pad thai de pollo|7|7|22|350|1 plato
+Ramen de cerdo (tazón completo)|5|5|11|600|1 tazón
+Tonkatsu (cerdo apanado, solo carne)|20|18|14|150|1 porción
+Poke bowl de salmón (completo)|7|6|18|400|1 bowl
+Poke bowl de atún (completo)|8|3|19|400|1 bowl
+Bowl de quinua con pollo y palta|7|7|14|400|1 bowl
+Bowl de arroz, frijoles y pollo (burrito bowl)|8|6|18|400|1 bowl
+Taco de carne (1 unidad)|10|12|18|90|1 taco
+Taco de pollo (1 unidad)|11|9|18|90|1 taco
+Burrito de carne|9|9|24|300|1 burrito
+Burrito de frijoles y queso|7|7|27|280|1 burrito
+Quesadilla de queso|13|18|22|150|1 quesadilla
+Nachos con queso (porción)|8|20|40|120|1 porción
+Enchiladas de pollo con salsa y queso|9|9|14|300|2 enchiladas
+Fajitas de pollo con pimientos|13|7|7|250|1 porción
+Chili con carne|8|6|10|300|1 plato
+Ensalada César con pollo|10|12|8|300|1 plato
+Ensalada César (sin pollo)|3|12|8|250|1 plato
+Ensalada griega|3|10|5|250|1 plato
+Ensalada caprese|8|12|3|150|1 plato
+Ensalada de atún con verduras|10|6|5|300|1 plato
+Ensalada de pollo con verduras y palta|11|9|5|350|1 plato
+Ensalada de quinua con verduras|4|5|15|250|1 plato
+Ensalada de frijoles y choclo|5|3|16|200|1 plato
+Ensalada de pasta con mayonesa|4|11|22|200|1 plato
+Ensalada de camarones y palta|9|8|4|250|1 plato
+Tortilla española (porción)|6|10|14|150|1 porción
+Paella de mariscos|6|5|20|350|1 plato
+Paella mixta|8|7|20|350|1 plato
+Risotto de champiñones|4|7|23|300|1 plato
+Lasaña de carne|9|8|13|300|1 porción
+Lasaña de verduras|6|6|14|300|1 porción
+Pasta primavera (fideos con verduras)|5|5|22|300|1 plato
+Pasta con salsa pomodoro y albahaca|5|3|28|280|1 plato
+Pasta a la putanesca|5|6|26|280|1 plato
+Gnocchi con salsa de tomate|4|4|24|280|1 plato
+Bruschetta de tomate (2 unidades)|5|7|25|100|2 unidades
+Gazpacho|1|3|5|250|1 vaso
+Sopa de tomate|1.5|2.5|6|300|1 plato
+Falafel en pan pita|9|11|35|220|1 unidad
+Hummus con pan pita|8|9|30|150|1 porción
+Kibbeh frito (2 unidades)|12|16|20|120|2 unidades
+Shawarma de res|12|10|20|250|1 unidad
+Baba ganoush|2|10|8|60|3 cucharadas
+Tabule|3|7|12|150|1 porción
+Dim sum de camarón (3 unidades)|8|3|16|80|3 unidades
+Arroz frito estilo chino (sin carne)|5|6|30|300|1 plato
+Costillas BBQ (porción)|22|20|9|200|1 porción
+Brochetas de pollo con verduras (3)|19|6|5|200|3 brochetas
+Mac and cheese|9|10|24|250|1 plato
+Sándwich club (pollo, tocino, lechuga y tomate)|14|10|22|280|1 sándwich
+Wrap de pollo con verduras|10|6|20|250|1 wrap
+Wrap de atún|11|7|20|220|1 wrap
+Crepes de jamón y queso|9|9|14|200|2 crepes
+Panini de jamón y queso|12|13|27|200|1 panini
+Fish and chips (pescado frito con papas)|10|14|25|350|1 plato
+Pollo a la parmesana|15|11|10|250|1 porción
+Albóndigas en salsa de tomate (solo bolitas y salsa)|10|8|8|200|4 albóndigas
+Carne al horno con verduras|15|8|7|300|1 plato
+Brócoli gratinado|5|8|5|150|1 porción
+Coliflor al horno con queso|6|7|6|150|1 porción
+Puré de camote|1.7|2|20|180|1 taza
+Hamburguesa vegana de garbanzo|7|6|20|120|1 hamburguesa
+Tofu a la plancha|10|6|2|120|1 porción
+Tofu crudo|8|4.8|1.9|100|1 porción
+Tempeh|19|11|9|100|1 porción
+Seitán|25|2|14|100|1 porción
+Proteína de soya texturizada hidratada|16|0.5|8|100|1/2 taza
+
+## Fitness y suplementos
+Proteína whey (1 scoop, polvo)|78|5|8|30|1 scoop
+Proteína whey aislada (1 scoop, polvo)|90|1|3|30|1 scoop
+Proteína vegetal (1 scoop, polvo)|75|6|8|30|1 scoop
+Caseína (1 scoop, polvo)|78|2|8|33|1 scoop
+Ganador de peso (gainer, 1 scoop)|20|3|68|100|1 scoop
+Creatina monohidratada|0|0|0|5|1 cucharadita|0
+BCAA en polvo|85|0|0|10|1 scoop
+Barra proteica (20 g de proteína)|36|15|35|60|1 barra
+Galletas proteicas|30|18|40|50|1 galleta
+Pudín proteico|10|2|8|150|1 pote
+Yogur proteico (tipo skyr)|11|0.2|4|150|1 pote
+Skyr natural|11|0.2|4|150|1 pote
+Pancakes proteicos de avena (2 unidades)|14|5|25|120|2 unidades
+Avena proteica (avena + whey, preparada)|12|4|20|250|1 taza
+Claras de huevo en caja|10.5|0.2|0.7|100|1/2 taza
+Pechuga de pollo en conserva (en agua)|22|1.5|0.5|100|1 lata
+Atún sellado a la plancha|29|1|0|150|1 filete
+Pavo en lonchas bajo en sodio|18|2|2|40|2 lonchas
+Gelatina sin azúcar con colágeno|8|0|0|150|1 vaso
+Colágeno hidrolizado en polvo|90|0|0|10|1 cucharada
+Pre-entreno (polvo)|0|0|2|10|1 scoop|8
+Electrolitos sin azúcar|0|0|0|10|1 sobre|0
+Batido de proteína con leche (1 scoop + 250 ml)|9|2|7|280|1 vaso
+Batido de proteína con plátano y avena|8|3|18|350|1 vaso
+Mantequilla de almendras|21|55|19|15|1 cucharada
+Tortitas de arroz con mantequilla de maní|12|14|60|40|2 tortitas
+Quinua con pollo (meal prep)|9|3|16|300|1 tupper
+Arroz con pollo y brócoli (meal prep)|9|2.5|16|350|1 tupper
+Camote con atún (meal prep)|8|2|16|300|1 tupper
+Ensalada de pollo, quinua y palta (meal prep)|9|7|10|350|1 tupper
+Wrap de pavo y queso light|13|5|20|200|1 wrap
+Hamburguesa de pavo casera (solo carne)|24|9|2|120|1 carne
+Camote horneado con pollo desmenuzado|8|1.5|16|300|1 plato
+Huevos revueltos con espinaca|11|10|2|150|1 plato
+Omelette de claras con verduras|10|3|4|200|1 omelette
+
+## Desayunos y cereales
+Hojuelas de maíz (corn flakes)|7|0.9|84|30|1 taza
+Hojuelas de maíz con azúcar (Zucaritas)|4|0.5|88|30|1 taza
+Cereal de chocolate (tipo Chocapic)|7|4|80|30|1 taza
+Cereal de aros de colores (Froot Loops)|5|2|83|30|1 taza
+Cereal de trigo inflado|12|2|78|30|1 taza
+Cereal de avena y miel|8|5|75|40|1 taza
+Cereal de arroz inflado con chocolate|6|3|85|30|1 taza
+Granola con yogur y fruta|6|6|25|250|1 bowl
+Cereal con leche entera (bowl completo)|4|2.5|18|300|1 bowl
+Quinua con leche (desayuno)|3|2|14|300|1 taza
+Kiwicha con leche|3|2|13|300|1 taza
+Avena con leche y canela (bowl)|4|3|16|300|1 bowl
+Avena con frutas y chía (overnight oats)|5|5|18|250|1 frasco
+Pan con mantequilla (1 pan francés con 1 cucharada)|8|9|45|60|1 pan
+Pan con palta (1 pan francés)|7|8|30|130|1 pan
+Pan con jamón y queso (pan francés)|13|12|27|180|1 pan
+Pan con huevo frito|9|8|30|140|1 pan
+Pan con huevo revuelto|9|9|30|150|1 pan
+Pan con tortilla de verduras|8|9|28|170|1 pan
+Pan con queso fresco|11|10|33|110|1 pan
+Pan con mermelada|7|1|55|75|1 pan
+Pan con manjar blanco|7|5|57|70|1 pan
+Pan con pollo deshilachado y mayonesa|12|8|26|160|1 pan
+Pan con atún y mayonesa|11|8|26|160|1 pan
+Pan con camote y huevo|7|7|34|200|1 pan
+Pan con chicharrón de desayuno|11|12|29|230|1 sándwich
+Pan con aceituna y queso|10|10|34|130|1 pan
+Pan con pavo y palta|10|9|25|170|1 pan
+Pan integral con palta y huevo|9|10|18|200|2 rebanadas
+Tostadas con mantequilla y mermelada (2 rebanadas)|6|7|50|70|2 rebanadas
+Tostadas francesas (con huevo y leche)|8|10|30|150|2 rebanadas
+Tostadas con mantequilla de maní|11|13|40|80|2 rebanadas
+Hot cakes con miel (3 unidades)|6|8|40|200|3 hot cakes
+Yogur con granola|7|6|20|200|1 bowl
+Yogur con frutas y miel|4|2|18|220|1 bowl
+Tamal criollo (desayuno)|6|9|22|200|1 unidad
+Humita con café (desayuno)|4|8|24|120|1 unidad
+Bizcocho con café con leche|5|8|45|100|1 porción
+Tortilla de huevo con camote (desayuno)|8|9|18|250|1 plato
+Huevos revueltos con pan|9|10|20|200|1 plato
+Huevos fritos (2) con pan y mantequilla|11|13|15|180|1 plato
+Choclo con queso (desayuno)|7|7|22|250|1 plato
+Cancha con queso fresco (desayuno)|10|10|40|100|1 plato
+Panqueques con manjar|6|9|45|150|2 unidades
+Frutas con yogur y miel|3|2|18|250|1 vaso
+Avena con manzana y canela|3|2|18|300|1 vaso
+Smoothie bowl de plátano y fresa|3|3|22|300|1 bowl
+Macha con leche (desayuno andino)|10|2|75|60|1 taza
+Maca con leche y miel|3|3|16|250|1 vaso
+Mazamorra de cebada|3|1|20|250|1 vaso
+Chocolate caliente con pan|5|7|35|300|1 plato
+Café con leche y pan con mantequilla|6|8|35|350|1 desayuno
+Queso fresco con aceitunas y pan|12|14|32|180|1 plato
+Kiwicha pop con yogur|6|4|22|200|1 bowl

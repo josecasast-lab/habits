@@ -1,0 +1,84 @@
+## Platos peruanos
+Wantán frito (3 unidades)|8|20|30|45|3 unidades
+Kam lu wantán (solo pollo y wantán fritos con salsa agridulce)|8|10|20|400|1 plato
+Pollo chijaukay (solo pollo apanado con salsa)|14|12|15|250|1 porción
+Pollo tipakay (solo pollo con salsa de la casa)|13|8|12|250|1 porción
+Pollo con piña (solo pollo y salsa)|12|6|14|250|1 porción
+Pollo en salsa de ostión (solo pollo y verduras)|12|7|8|250|1 porción
+Chancho agridulce (solo cerdo con salsa)|10|12|18|250|1 porción
+Chuleta con salsa de tamarindo (solo carne y salsa)|12|13|14|220|1 porción
+Fuyunghay (tortilla chifa de huevo con verduras)|9|9|5|200|1 porción
+Chi jau kay con arroz chaufa (completo)|8|9|25|500|1 plato
+Siu mai de cerdo (3 unidades)|10|8|15|90|3 unidades
+Tallarín saltado chifa (solo fideos con soya y verduras)|5|5|25|300|1 plato
+Pato asado chifa (solo carne con piel)|18|25|2|150|1 porción
+Pollo al sillao (solo pollo)|16|8|4|200|1 porción
+Chaufa de chancho con wantán (completo)|8|11|26|450|1 plato
+Pollo en salsa de tamarindo (solo pollo con salsa)|13|9|15|250|1 porción
+Chop suey de pollo (solo salteado)|9|5|8|300|1 plato
+Rollitos primavera fritos (2 unidades)|5|12|28|100|2 unidades
+Arroz con mariscos al estilo chifa|7|5|25|400|1 plato
+Sopa wantán (con caldo, wantán y pollo)|4|2|5|450|1 plato
+Sopa chifa (sopa de pollo con verduras)|3|1.5|4|400|1 plato
+Pollo Kentucky chifa (presa frita con salsa)|17|14|14|200|1 presa
+Chorizo a la parrilla con pan (choripán)|11|20|26|200|1 unidad
+Papa rellena de la calle (unidad pequeña)|6|10|23|120|1 unidad
+Pan con pejerrey|14|10|28|200|1 sándwich
+Pescado con arroz chaufa|10|8|22|450|1 plato
+Pollo broaster (presa) con papas fritas|13|17|18|350|1 plato
+Sudado de pescado completo (con arroz y yuca)|7|4|20|500|1 plato
+
+## Sopas y caldos
+Caldo de gallina (solo caldo con presa, sin fideos ni huevo ni papa)|5|2.5|1|450|1 plato
+Caldo de gallina con fideos, papa y huevo (completo)|6|3|8|550|1 plato
+Caldo de cabeza (solo caldo)|2|1.5|1|400|1 plato
+Caldo de cabeza (completo con mote y menudencias)|5|3|6|500|1 plato
+Caldo de pollo casero (solo caldo)|1.5|1|0.5|300|1 taza
+Caldo de pollo con verduras|2|1|3|350|1 taza
+Caldo de res (solo caldo)|2|1.5|0.5|300|1 taza
+Caldo de bolas de verde|3|2.5|10|400|1 plato
+Dieta de pollo (caldo con pollo hervido)|4|1.5|2|450|1 plato
+Caldo blanco (con papa y fideos)|3|2|7|450|1 plato
+Caldo de pescado (solo caldo)|3|1|1|350|1 plato
+Chupe de camarones (completo)|5|5|7|450|1 plato
+Chupe de pescado|5|4|7|450|1 plato
+Chupe de quesos|4|5|8|400|1 plato
+Chupe de pollo|5|4|8|450|1 plato
+Aguadito de pollo|4|3|9|450|1 plato
+Aguadito de res|4|3|9|450|1 plato
+Aguadito de mariscos|4|3|9|450|1 plato
+Sopa criolla (con fideos, carne, huevo y leche)|5|4|8|450|1 plato
+Sopa a la minuta|4|4|9|400|1 plato
+Sopa de pollo con fideos|3|2|6|400|1 plato
+Sopa de quinua|3|2|8|400|1 plato
+Sopa de sémola|3|2|8|400|1 plato
+Sopa de verduras|1.5|1|5|350|1 plato
+Sopa de lentejas|5|2|10|350|1 plato
+Sopa de pallares|5|2|10|350|1 plato
+Sopa de arvejas|4|2|9|350|1 plato
+Sopa de frijoles|5|2|10|350|1 plato
+Sopa de choclo|2|2|9|350|1 plato
+Sopa de zapallo|1.5|2|7|350|1 plato
+Sopa teóloga (arequipeña)|6|5|12|400|1 plato
+Crema de zapallo|2|3|8|300|1 plato
+Crema de espárragos|2|3|7|300|1 plato
+Crema de verduras|2|3|8|300|1 plato
+Crema de pollo (instantánea preparada)|2|2.5|6|300|1 plato
+Crema de tomate|1.5|2|7|300|1 plato
+Menestrón|4|2|10|400|1 plato
+Sancochado (completo: carne, papa, yuca, choclo y repollo)|7|4|10|600|1 plato
+Sancochado (solo caldo)|2|1|1|300|1 taza
+Puchero (carne, tocino, garbanzos y verduras)|8|8|8|500|1 plato
+Parihuela (sopa de mariscos y pescado)|6|3|3|450|1 plato
+Sopa de camarones (chupe sin arroz)|6|4|4|400|1 plato
+Cazuela de gallina|6|4|7|450|1 plato
+Inchicapi (sopa de gallina con maní)|6|7|5|400|1 plato
+Patasca (mondongo con mote)|5|3|9|450|1 plato
+Shambar (sopa de trigo y menestras)|6|3|12|400|1 plato
+Locro de zapallo|3|4|9|350|1 plato
+Timbuche (sopa de pescado amazónico)|6|2|3|400|1 plato
+Sopa de gallina con tallarín|4|3|9|450|1 plato
+Sopa instantánea de fideos preparada|2|2|6|300|1 plato
+Chilcano de pescado (caldo con pescado, sin arroz)|5|2|1|350|1 plato
+Sopa de pescado con verduras|4|1.5|3|400|1 plato
+Sopa miso|2|1|3|250|1 tazón
